@@ -64,7 +64,7 @@ Each of these tools offers substantial productivity enhancements, with unique st
   - Enhances code quality with suggestions adhering to industry standards.
   
 - **Drawback:**  
-  - **Cost:** $10 per developer per month (100 developers).  
+  - **Cost:** $10 per developer per month (100 developers = $10,000 monthly!).  
   - **Limited to developers:** Not applicable to non-technical employees.  
   - **Privacy concerns:** Potential risks with Copilot learning from proprietary code.
 
