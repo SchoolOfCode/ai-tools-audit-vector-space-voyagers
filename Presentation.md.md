@@ -1,33 +1,105 @@
-# Executive Summary
+### Slide 3: Executive Summary
 
-We have surveyed the following AI tools to assess their benefits for productivity: 
+**Title:** Executive Summary
+
+We have assessed the following AI tools to evaluate their productivity benefits for TechForge Industries:
 
 - Otter.ai
-- Github co-pilot
+- GitHub Copilot
 - Mistral
 - Intercom
 
+Each of these tools offers substantial productivity enhancements, with unique strengths and some challenges that should be considered.
 
-We've found that all of these products pose significant benefits for productivity and performance at TechForge. For instance:
+---
 
-## Otter.ai
+### Slide 4: Otter.ai - AI Meeting Notes Generator
 
-Otter is an AI-powered meeting notes generator, which captures key points and action items from video-call meetings. It provides captions for accessibility and meeting summaries to allow attendees to get clear action points and double-check what's been agreed afterwards. It boasts a wide range of integrations, so it works with Slack, Microsoft office/teams and Google drive. 
+**Title:** Otter.ai
 
-A drawback could be that it doesn't currently integrate with Github projects, which means it wouldn't allow users to quickly generate Github projects, milestones and issues based on decisions in meetings. Given the tech-first and collaborative culture at TechForge, this would mean some manual work for our Engineers, and so  lessens the potential positive impact of Otter on our Engineering teams. 
+- **Description:** Otter.ai is an AI-powered tool for generating meeting notes. It automatically captures key points, action items, and offers captions for accessibility. The tool integrates seamlessly with popular platforms like Slack, Microsoft Teams, and Google Drive.
+  
+- **Benefits:**  
+  - Streamlines note-taking and follow-ups.
+  - Enhances collaboration with easily accessible summaries.
+  - Improves inclusivity with real-time captions.
+  
+- **Drawback:**  
+  - Lacks integration with GitHub projects, limiting its direct impact on engineering workflows at TechForge.
 
-## Github co-pilot
+---
 
-Github co-pilot is an AI-powered chatbot that integrates with your IDE. It can suggest code in your code files and your commands to run in the terminal. It can explain new technical concepts, offer feedback on how to improve code quality (readability, scalability, security etc.) and since it is pre-trained on industry standards, it offers reliable industry-standard best practices. 
+### Slide 5: GitHub Copilot - AI Code Assistant
 
+**Title:** GitHub Copilot
 
-A drawback is the cost of co-pilot for our developer team (100 people). Co-pilot costs 10 USD per person per month. Also, it would not benefit the other non-technical employees (150 people). There are also privacy concerns; it infers from existing code in your codebase, which there are concerns about sharing. 
+- **Description:** GitHub Copilot is an AI code assistant integrated with your IDE. It suggests code, explains technical concepts, and recommends best practices for software development.
+  
+- **Benefits:**  
+  - Increases development speed by auto-generating code snippets.
+  - Enhances code quality with suggestions adhering to industry standards.
+  
+- **Drawback:**  
+  - **Cost:** $10 per developer per month (100 developers).  
+  - **Limited to developers:** Not applicable to non-technical employees.  
+  - **Privacy concerns:** Potential risks with Copilot learning from proprietary code.
 
+---
 
-## Mistral
+### Slide 6: Mistral - AI Writing and Coding Tool
 
-Mistral is an AI-powered writing tool that can write code, aswellas essays reports, and more. This means it can be used to not only program a site, but to create information to be displayed on the site. Mistral also allows for a variety of languages to be used, such as Python, Java, and more, being a huge help for a variety of companies if they all use different languages.
+**Title:** Mistral
 
-Mistral does have its risks, such as not being able to create the code that is needed, or that it may not be able to create the information in a way that is useful to the user. Another risk is that it may not be able to create the code in a way that is secure, or reliable. Mistral also has no clear accessibility features, meaning that it may not be able to create the code in a way that is accessible to all users.
+- **Description:** Mistral is a versatile AI-powered writing tool that supports various programming and natural languages. It assists in writing code, reports, and technical documents, making it ideal for multi-lingual and multi-disciplinary use.
+  
+- **Benefits:**  
+  - Supports multiple languages (Python, Java, etc.).
+  - Generates both code and written content for websites or applications.
+  
+- **Drawback:**  
+  - **Accuracy concerns:** Potential issues with generating incorrect or insecure code.  
+  - **Accessibility limitations:** Lacks robust features for accessibility compliance.
+  - **Cost:** Charges based on token usage, leading to increased expenses for high-volume usage.
 
-Being a payed software, it charges for usage by providing tokens when the API is used, meaning it can be good for small usages, but if used a large amount, the cost could go over what the company could afford.
+---
+
+### Slide 7: Intercom - AI Customer Support Platform
+
+**Title:** Intercom
+
+- **Description:** Intercom is an AI-powered customer engagement tool that enhances customer support via chatbots, messaging, and targeted communications.
+  
+- **Benefits:**  
+  - Improves customer service efficiency with automated chatbots.
+  - Enhances user engagement with personalized messaging.
+  
+- **Drawback:**  
+  - **Cost:** Pricing increases with scale and customer volume.  
+  - **Customization:** Limited customizability may affect specialized needs.
+
+---
+
+### Slide 8: Recommendations for TechForge
+
+**Title:** Recommendations for TechForge
+
+Based on our evaluation, we recommend:
+
+- **Otter.ai:** Useful for non-technical teams and customer-facing roles. Implement with workarounds for the engineering team.
+- **GitHub Copilot:** High-value for engineering teams. Prioritize its adoption while addressing privacy concerns.
+- **Mistral:** Adopt selectively for content generation; evaluate cost based on usage.
+- **Intercom:** Ideal for enhancing customer support; useful for scaling up communication processes.
+
+---
+
+### Slide 9: Conclusion
+
+**Title:** Conclusion
+
+In conclusion, AI tools have immense potential to transform TechForge’s operations. By carefully selecting and implementing the right solutions, TechForge can drive innovation, enhance productivity, and improve both internal and customer-facing workflows. Let's work together to harness this potential for maximum impact.
+
+Thank you for your time. We now welcome any questions or discussions.
+
+--- 
+
+This extended version follows your format while integrating additional slides to provide a comprehensive overview of the evaluated AI tools.
