@@ -23,8 +23,11 @@ Github co-pilot is an AI-powered chatbot that integrates with your IDE. It can s
 
 A drawback is the cost of co-pilot for our developer team (100 people). Co-pilot costs 10 USD per person per month. Also, it would not benefit the other non-technical employees (150 people). There are also privacy concerns; it infers from existing code in your codebase, which there are concerns about sharing. 
 
+
 ## Mistral
 
+Mistral is an AI-powered writing tool that can write code, aswellas essays reports, and more. This means it can be used to not only program a site, but to create information to be displayed on the site. Mistral also allows for a variety of languages to be used, such as Python, Java, and more, being a huge help for a variety of companies if they all use different languages.
 
+Mistral does have its risks, such as not being able to create the code that is needed, or that it may not be able to create the information in a way that is useful to the user. Another risk is that it may not be able to create the code in a way that is secure, or reliable. Mistral also has no clear accessibility features, meaning that it may not be able to create the code in a way that is accessible to all users.
 
-
+Being a payed software, it charges for usage by providing tokens when the API is used, meaning it can be good for small usages, but if used a large amount, the cost could go over what the company could afford.
