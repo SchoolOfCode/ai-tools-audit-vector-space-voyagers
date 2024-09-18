@@ -20,6 +20,8 @@ A detailed analysis of the top-performing tools we identified
 Recommendations tailored to TechForge's specific needs and goals
 By the end of this presentation, you'll have a clear understanding of how AI can transform your business and be equipped to make informed decisions about tool adoption.
 
+---
+
 ### Slide 3: Executive Summary
 
 **Title:** Executive Summary
