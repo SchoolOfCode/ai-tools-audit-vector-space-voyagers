@@ -18,7 +18,8 @@ A drawback could be that it doesn't currently integrate with Github projects, wh
 
 ## Github co-pilot
 
-Github co-pilot is an AI-powered chatbot that integrates with your IDE. It can suggest code in your code files and your commands to run in the terminal. It can explain new technical concepts, offer feedback on how to improve code quality (readability, scalability, security etc.) and since it is pre-trained on industry standards, it offers reliable industry-standard best pratices. 
+Github co-pilot is an AI-powered chatbot that integrates with your IDE. It can suggest code in your code files and your commands to run in the terminal. It can explain new technical concepts, offer feedback on how to improve code quality (readability, scalability, security etc.) and since it is pre-trained on industry standards, it offers reliable industry-standard best practices. 
+
 
 A drawback is the cost of co-pilot for our developer team (100 people). Co-pilot costs 10 USD per person per month. Also, it would not benefit the other non-technical employees (150 people). There are also privacy concerns; it infers from existing code in your codebase, which there are concerns about sharing. 
 
